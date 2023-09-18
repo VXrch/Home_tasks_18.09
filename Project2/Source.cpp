@@ -205,6 +205,8 @@ void main()
 
     int task_number;
 
+    cout << "Welcome!" << endl;
+
     cout << "Enter task number: "; cin >> task_number;
     if (task_number == 1) {
         task_1();
